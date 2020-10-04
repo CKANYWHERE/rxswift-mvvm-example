@@ -1,0 +1,8 @@
+target 'BountyList' do
+frameworks
+ use_frameworks!
+
+pod 'RxSwift'
+pod 'RxCocoa'
+
+end
